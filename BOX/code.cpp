@@ -104,4 +104,6 @@ void check2()
 int main()
 {
 	check2();
+         getch ();     // for more flexibility of prgrm.
+        return 0;     // it must be required to get out of function 
 }
